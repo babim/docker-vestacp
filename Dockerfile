@@ -1,4 +1,4 @@
-FROM phusion/baseimage
+FROM babim/ubuntubaseinit
 MAINTAINER "Duc Anh Babim" <babim@matmagoc.com>
 
 ENV DEBIAN_FRONTEND=noninteractive \
